@@ -69,7 +69,7 @@ roms:
     android-version: '14'
     rom-notes: ''
     rom-webpage: 'https://evolution-x.org/'
-    phone-webpage: 'https://evolution-x.org/device/rosemary'
+    phone-webpage: 'https://sourceforge.net/projects/evolution-x/files/rosemary/14/' #previous link broken
   - 
     rom-name: 'LibreMobileOS'
     rom-support: true
@@ -94,6 +94,142 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://doc.e.foundation/devices/rosemary'
+  - 
+    rom-name: 'AfterlifeOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://afterlifeos.com/'
+    phone-webpage: 'https://afterlifeos.com/device/rosemary/'
+  - 
+    rom-name: 'AlphaDroid'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/alphadroid-project'
+    phone-webpage: 'https://sourceforge.net/projects/release-builds/files/rosemary/AlphaDroid-v1.10/'
+  - 
+    rom-name: 'Project Blaze'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://www.projectblaze.in/'
+    phone-webpage: 'https://sourceforge.net/projects/release-builds/files/rosemary/ProjectBlaze/'
+  - 
+    rom-name: 'Awaken OS'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://awakenos.vercel.app/'
+    phone-webpage: 'https://sourceforge.net/projects/release-builds/files/rosemary/awakenOS/'
+  - 
+    rom-name: 'DerpFest'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://derpfest.org/'
+    phone-webpage: 'https://sourceforge.net/projects/release-builds/files/rosemary/DerpFest/'
+  - 
+    rom-name: 'RisingOS'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://risingos-staging.github.io/'
+    phone-webpage: 'https://sourceforge.net/projects/release-builds/files/rosemary/risingOS/' 
+  - 
+    rom-name: 'tequilaOS'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://tequilaos.org/'
+    phone-webpage: 'https://sourceforge.net/projects/lpu/files/tequila-tortilla-20230307-1813-UNOFFICIAL-rosemary.zip/download' 
+  - 
+    rom-name: 'ANDROID ICE COLD PROJECT'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://www.aicp-rom.com/'
+    phone-webpage: 'https://sourceforge.net/projects/lpu/files/aicp_rosemary_t-18.0-UNOFFICIAL-20230309.zip/download' 
+  - 
+    rom-name: 'SpiceOS'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/spiceos'
+    phone-webpage: 'https://sourceforge.net/projects/lpu/files/SpiceOS-6.4-STABLE-20230305-223138-rosemary-UNOFFICIAL.zip/download' 
+  - 
+    rom-name: 'ProtonPlus'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/protonplus-org'
+    phone-webpage: 'https://sourceforge.net/projects/lpu/files/ProtonPlus-13.04-Stable-rosemary-COMMUNITY-20230303-011505.zip/download' 
+  - 
+    rom-name: 'VoltageOS'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/VoltageOS'
+    phone-webpage: 'https://sourceforge.net/projects/lpu/files/voltage-2.4-rosemary-20230301-1726-UNOFFICIAL.zip/download' 
+  - 
+    rom-name: 'SparkOS'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://spark-os.live/'
+    phone-webpage: 'https://sourceforge.net/projects/lpu/files/Spark-12.6-UNOFFICIAL-rosemary-20221210.zip/download' 
+  - 
+    rom-name: 'SuperiorOS'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://superior-website.vercel.app/'
+    phone-webpage: 'https://sourceforge.net/projects/rom-builders/files/rosemary/SuperiorOS-Thirteen-rosemary-GAPPS-COMMUNITY-20230915-1124.zip/download'
+  - 
+    rom-name: 'Cherish OS'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://cherishos.com/index.html'
+    phone-webpage: 'https://sourceforge.net/projects/rom-builders/files/rosemary/Cherish-OS-v4.10-20230730-1434-rosemary-UNOFFICIAL-GApps.zip/download'
+  - 
+    rom-name: 'RiceDroid'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/RiceDroid-devices'
+    phone-webpage: 'https://sourceforge.net/projects/rom-builders/files/rosemary/riceDroid-13.0-202302110009-rosemary-v10.2-AOSP-COMMUNITY.zip/download'
+  - 
+    rom-name: 'Project Kaleidoscope'
+    rom-support: true
+    rom-state: 'Community'
+    android-version: '12'
+    rom-notes: ''
+    rom-webpage: 'https://kaleidoscope.ink/'
+    phone-webpage: 'https://sourceforge.net/projects/rom-builders/files/rosemary/Kaleidoscope-sunflowerleaf-rosemary-20230104-UNOFFICIAL.zip/download' 
+  - 
+    rom-name: 'Bootleggers ROM'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '13'
+    rom-notes: 'Needed to be built. Vendor: https://github.com/BootleggersROM-Devices/vendor_xiaomi_rosemary/'
+    rom-webpage: 'https://github.com/BootleggersROM'
+    phone-webpage: 'https://github.com/BootleggersROM-Devices/device_xiaomi_rosemary'
 
 recoveries: null
 linux: null
