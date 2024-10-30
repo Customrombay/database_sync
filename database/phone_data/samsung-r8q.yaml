@@ -56,7 +56,13 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://crdroid.net/'
     phone-webpage: 'https://crdroid.net/downloads#r8q'
-
+  - 
+    rom-name: 'UN1CA'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://github.com/salvogiangri/UN1CA'
+    phone-webpage: 'https://web.telegram.org/a/#-1002036996277_51867'
 recoveries: 
   - 
     recovery-name: 'TWRP'
