@@ -1,0 +1,56 @@
+device-name: 'gunnar'
+device-vendor: 'OnePlus'
+device-model-name: 'N20 5G'
+device-description: null
+specs: 
+  soc: 'Qualcomm Snapdragon 695'
+  ram: '6 GB'
+  storage: '128 GB'
+  is_ab_device: true
+  screen: 
+    refresh_rate: 60
+    resolution: '1080x2400'
+    size: 6.43
+    technology: 'AMOLED'
+  battery: 
+    capacity: 4500
+    removable: false
+    tech: 'Li-Po'
+  peripherals: 
+    - 'A-GPS'
+    - 'Accelerometer'
+    - 'Barometer'
+    - 'Compass'
+    - 'Dual-frequency GNSS'
+    - 'Fingerprint reader'
+    - 'BeiDou'
+    - 'Galileo'
+    - 'GLONASS'
+    - 'GPS'
+    - 'SBAS'
+    - 'QZSS'
+    - 'Gyroscope'
+    - 'Hall effect sensor'
+    - 'Light sensor'
+    - 'NFC'
+    - 'Pedometer'
+    - 'Proximity sensor'
+    - 'USB OTG'
+  network: 
+    - '2G GSM'
+    - '3G UMTS'
+    - '4G LTE'
+    - '5G NR'
+  release: '2022-04'
+roms: 
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    rom-note: 'Fingerprint-sensor does not work, battery icon disappears form status bar sometimes, and other minor bugs.'
+    android-version: '14'
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://xdaforums.com/t/workable-newest-custom-lineageos-rom-for-nord-n20.4648924/'
+
+recoveries: []
+linux: []
