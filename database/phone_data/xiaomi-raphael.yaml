@@ -116,6 +116,14 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://blissroms.org/'
     phone-webpage: 'https://downloads.blissroms.org/download/raphael/'
+  - 
+    rom-name: 'RisingOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://sourceforge.net/projects/risingos-official/'
+    phone-webpage: 'https://sourceforge.net/projects/risingos-official/files/'
 
 recoveries: 
   - 
