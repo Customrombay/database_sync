@@ -20,8 +20,23 @@ specs:
   network: null
   peripherals: null
   release: '2024-04'
-roms: []
+roms: 
+  - 
+    rom-name: 'PixelOS'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://pixelos.net/'
+    phone-webpage: 'https://pixelos.net/download/peridot'
+  - 
+    rom-name: 'crDroid'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14'
+    rom-webpage: 'https://crdroid.net/'
+    phone-webpage: 'https://crdroid.net/peridot/10'
 
+    
 recoveries: []
 
 linux: null
