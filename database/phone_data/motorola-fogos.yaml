@@ -1,12 +1,12 @@
 device-name: 'fogos'
 device-vendor: 'Motorola'
-device-model-name: 'moto g34'
-device-description: null
+device-model-name: 'moto g45 5g'
+device-description: 'Motorola motog45 5g is powered by the Qualalcomm SM6375 Snapdragon 6s Gen3 5g CPU and equipped with thhe Qualcomm Adreno 619 GPU. It has 4/8 LPDDR4X of Ram and 128 GB UFS2.2 of internal storage. Its Li-PO battery is non-removable and has a capacity of 5000 mAh. It was released in August 2024.'
 specs: 
-  soc: 'Qualcomm SM6375 Snapdragon 695 5G'
+  soc: 'Qualcomm SM6375 Snapdragon 6s Gen3 (6nm)'
   gpu: 'Qualcomm Adreno 619'
   ram: '4/8 GB'
-  storage: '64/128/256 GB'
+  storage: '128GB'
   is_ab_device: true
   screen: 
     resolution: '720x1600'
@@ -16,10 +16,23 @@ specs:
     capacity: 5000
     removable: false
     tech: 'Li-Po'
-  network: null
-  peripherals: null
-  release: '2023-12'
-roms: []
+  network: 
+  peripherals: 
+  release: '2024-08'
+roms:
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'UnOfficial'
+    android-version: '14'
+    rom-notes: 'Everything works except DT2W'
+    rom-webpage: 'https://xdaforums.com/t/rom-14-0-unofficial-lineageos-21-for-motorola-moto-g34-g45-5g-fogos.4697556/'
+  -
+    rom-name: '/e/OS'
+    rom-support: true
+    rom-state: 'UnOfficial'
+    rom-notes: ''
+    rom-webpage: 'https://community.e.foundation/t/unofficial-build-motorola-moto-g34-g45-5g-fogos-for-e-os-u/62324'
 recoveries: []
 
 linux: []
