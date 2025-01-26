@@ -20,7 +20,22 @@ specs:
   network: null
   peripherals: null
   release: '2023-12'
-roms: []
+roms:  
+  - 
+    rom-name: 'YAAP'
+    rom-support: true
+    rom-state: 'Supported'
+    android-version: '15'
+    rom-webpage: 'https://github.com/yaap'
+    phone-webpage: 'https://mirror.codebucket.de/yaap/waffle/'
+  - 
+    rom-name: 'Nameless-CLO'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '15'
+    rom-webpage: 'https://www.nameless.wiki/'
+    phone-webpage: 'https://www.nameless.wiki/getting-started/downloads/oneplus/waffle'
+  - 
 
 recoveries: []
 linux: []
