@@ -28,6 +28,15 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://derpfest.org/'
     phone-webpage: 'https://sourceforge.net/projects/derpfest/files/fleur/'
+  - 
+    rom-name: 'Halcyon'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14, 15'
+    rom-notes: ''
+    rom-webpage: 'https://hlcyn.co/'
+    phone-webpage: 'https://get.hlcyn.co/builds/fleur'
+
 
 recoveries: 
   - 
