@@ -28,6 +28,47 @@ roms:
     rom-notes: ''
     rom-webpage: 'https://derpfest.org/'
     phone-webpage: 'https://sourceforge.net/projects/derpfest/files/fleur/'
+  - 
+    rom-name: 'PixelOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '15'
+    rom-notes: ''
+    rom-webpage: 'https://pixelos.net/'
+    phone-webpage: 'https://github.com/xiaomi-mt6781-dev/releases/releases/tag/PixelOS'
+  - 
+    rom-name: 'Pixelage'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '13'
+    rom-notes: ''
+    rom-webpage: 'https://github.com/ProjectPixelage'
+    phone-webpage: 'https://sourceforge.net/projects/nisel-archive/files/testing/PixelAge/'
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '14'
+    rom-notes: ''
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://github.com/xiaomi-mt6781-dev/releases/releases/tag/LineageOS'
+  - 
+    rom-name: 'LineageOS'
+    rom-support: true
+    rom-state: 'Unofficial'
+    android-version: '15'
+    rom-notes: ''
+    rom-webpage: 'https://lineageos.org/'
+    phone-webpage: 'https://github.com/xiaomi-mt6781-dev/releases/releases/tag/LineageOS-22'
+  - 
+    rom-name: 'Halcyon'
+    rom-support: true
+    rom-state: 'Official'
+    android-version: '14, 15'
+    rom-notes: ''
+    rom-webpage: 'https://hlcyn.co/'
+    phone-webpage: 'https://get.hlcyn.co/builds/fleur'
+
 
 recoveries: 
   - 
